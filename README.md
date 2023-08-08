@@ -1,4 +1,4 @@
-# Avatar-Game
+# Savior
 To run this, install Python using the following instructions:
 - First, visit https://www.python.org/downloads/release/python-3105/ in a web browser.
 - Scroll down to the "Files" header on the bottom of the page. Download the macOS 64-bit universal2 installer.
